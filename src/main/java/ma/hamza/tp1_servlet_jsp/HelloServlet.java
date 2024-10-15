@@ -1,7 +1,6 @@
 package ma.hamza.tp1_servlet_jsp;
 
 import java.io.*;
-
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;
 
